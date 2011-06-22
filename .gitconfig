@@ -1,0 +1,7 @@
+[user]
+	name = José Nahuel Cuesta Luengo
+	email = nahuelcuestaluengo@gmail.com
+[core]
+	quotepath = false
+	autocrlf = input
+	editor = mate -w
